@@ -1,1 +1,1 @@
-# AiStockfela- is a Stokvel Manager is a digital platform that helps communities organize, track, and Stokvel Manager is a technology platform that facilitates record-keeping and coordination. We do not hold, manage, or invest user funds.
+# AiStockfela- is a Stokvel Manager that is a digital platform that helps communities organize, track, and Manage their stokvels, it is a technology platform that facilitates record-keeping and coordination. We do not hold, manage, or invest user funds.
